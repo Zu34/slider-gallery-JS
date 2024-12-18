@@ -1,5 +1,8 @@
 # slide_gallery
 
+# ![Theme Setting](./Screen%20Recording.gif)
+
+
 ## only one main ``<img>`` for the display area and two buttons (``<`` and ``>``).
 
 ###  images loop back to the first or last image when you reach the end
